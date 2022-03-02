@@ -1,0 +1,40 @@
+
+.class{
+    display: flex;
+    justify-content: center;
+    position: relative;
+}
+.class img{
+    height: 600px;
+}
+ .sec{
+    width: 2px;
+    height: 200px;
+    background-color: brown;
+    position: absolute;
+    left: 50.2%;
+    top: 17%;
+    transform-origin: bottom;
+    /* transition: 0.3s; */
+} 
+
+  .min{
+    width: 6px;
+    height: 175px;
+    background-color: rgb(77, 73, 73);
+    position: absolute;
+    left: 50%;
+    top: 21%;
+    border-radius: 100px;
+    transform-origin: bottom;
+} 
+ .hr{
+    width: 10px;
+    height: 130px;
+    background-color: rgb(21, 22, 21);
+    position: absolute;
+    left: 49.66%;
+    top: 28.8%;
+    border-radius: 100px;
+    transform-origin: bottom;
+} 

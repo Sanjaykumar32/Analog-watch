@@ -1,0 +1,12 @@
+.text{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.set{
+    margin: 10px 10px;
+}
+.btn{
+    padding: 8px 20px ;
+    background-color: blanchedalmond;
+}
